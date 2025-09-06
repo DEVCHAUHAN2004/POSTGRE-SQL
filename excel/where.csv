@@ -1,0 +1,6 @@
+SELECT country
+FROM worldfood
+WHERE id = 1;
+
+
+"Australia"

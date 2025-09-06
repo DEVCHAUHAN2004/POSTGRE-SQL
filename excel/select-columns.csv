@@ -1,0 +1,10 @@
+SELECT country FROM worldfood;
+"Australia"
+"Brazil"
+"China"
+"Ethiopia"
+"India"
+"Iran"
+"Pakistan"
+"Ukraine"
+"United States"
