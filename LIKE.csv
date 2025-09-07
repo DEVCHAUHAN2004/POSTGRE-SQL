@@ -1,0 +1,6 @@
+SELECT country
+FROM worldfood
+WHERE country LIKE 'I'||'%';
+
+"India"
+"Iran"
