@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SELECT country,wheat
 FROM worldfood;
 
@@ -10,4 +11,18 @@ country,    wheat
 "Iran"	    1.8
 "Pakistan"	13.98
 "Ukraine"	   0.09
+=======
+SELECT country,wheat
+FROM worldfood;
+
+country,    wheat
+"Australia"	 0.43
+"Brazil"	   13.08
+"China"	     213.78
+"Ethiopia"	 0.4
+"India"	    196.56
+"Iran"	    1.8
+"Pakistan"	13.98
+"Ukraine"	   0.09
+>>>>>>> cc7f5b7 (J)
 "United States"	8.8

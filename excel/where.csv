@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 SELECT country
 FROM worldfood
 WHERE id = 1;
 
 
+=======
+SELECT country
+FROM worldfood
+WHERE id = 1;
+
+
+>>>>>>> cc7f5b7 (J)
 "Australia"

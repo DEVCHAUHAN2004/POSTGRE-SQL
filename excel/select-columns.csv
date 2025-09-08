@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SELECT country FROM worldfood;
 "Australia"
 "Brazil"
@@ -7,4 +8,15 @@ SELECT country FROM worldfood;
 "Iran"
 "Pakistan"
 "Ukraine"
+=======
+SELECT country FROM worldfood;
+"Australia"
+"Brazil"
+"China"
+"Ethiopia"
+"India"
+"Iran"
+"Pakistan"
+"Ukraine"
+>>>>>>> cc7f5b7 (J)
 "United States"

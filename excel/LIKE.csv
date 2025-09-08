@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 SELECT country
 FROM worldfood
 WHERE country LIKE 'I'||'%';
 
 "India"
+=======
+SELECT country
+FROM worldfood
+WHERE country LIKE 'I'||'%';
+
+"India"
+>>>>>>> cc7f5b7 (J)
 "Iran"
